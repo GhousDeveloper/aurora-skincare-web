@@ -22,7 +22,7 @@ A modern skincare storefront featuring elegant visuals, interactive shopping, pr
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhousDeveloper/aurora-skincare/34557f10c3b4945e3051d52c19e17ec5ad248ce7/img-web.PNG" width="100%" alt="Aurora Skincare Website Preview"/>
+  <img src="https://raw.githubusercontent.com/GhousDeveloper/aurora-skincare-web/db71147cde9d4592d2f3be0c40513346485313bf/public/img-web.PNG" width="100%" alt="Aurora Skincare Website Preview"/>
 </p>
 
 ---
