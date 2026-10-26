@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Skincare",
+  "description": "Premium skincare and beauty e-commerce website inspired by nature, science, and radiant care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
